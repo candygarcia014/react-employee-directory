@@ -52,8 +52,7 @@ function App() {
     <div>
       <Header />
       <Sort />
-      <User users = {value.data.results} />
-      <Table />
+      <User users = {value.data.results} />   
     </div>
   );
 }
