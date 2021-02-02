@@ -4,8 +4,8 @@ import Dropdown from "react-bootstrap/Dropdown";
 function Sort(props) {
     return (
         <div>
-            <Dropdown className="mb-5">
-                <Dropdown.Toggle variant="success" id="dropdown-basic">
+            <Dropdown className="sort">
+                <Dropdown.Toggle variant="warning" id="dropdown-basic">
                     Sort by...
                 </Dropdown.Toggle>
 
