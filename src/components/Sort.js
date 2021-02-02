@@ -5,7 +5,7 @@ function Sort(props) {
     return (
         <div>
             <Dropdown className="sort">
-                <Dropdown.Toggle variant="warning" id="dropdown-basic">
+                <Dropdown.Toggle variant="dark" id="dropdown-basic">
                     Sort by...
                 </Dropdown.Toggle>
 

@@ -53,7 +53,7 @@ function App() {
       <Header />
       <Sort />
       <User users = {value.data.results} />
-      {/* <Table /> */}
+      <Table />
     </div>
   );
 }
