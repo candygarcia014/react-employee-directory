@@ -51,8 +51,8 @@ function App() {
   return (
     <div>
       <Header />
-      <Sort />
-      <User users = {value.data.results} />   
+      {/* <Sort /> */}
+      <User />   
     </div>
   );
 }
